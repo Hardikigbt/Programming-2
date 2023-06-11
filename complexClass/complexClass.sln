@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "complexClass", "complexClass\complexClass.csproj", "{2CAB4BBE-56D0-47D4-80E2-F07E87C5CD1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CAB4BBE-56D0-47D4-80E2-F07E87C5CD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAB4BBE-56D0-47D4-80E2-F07E87C5CD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAB4BBE-56D0-47D4-80E2-F07E87C5CD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAB4BBE-56D0-47D4-80E2-F07E87C5CD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {734AF096-9174-402A-93FB-6E1B7030ABBC}
+	EndGlobalSection
+EndGlobal
